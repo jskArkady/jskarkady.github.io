@@ -4,17 +4,25 @@
 Jin Seol Kim
 
 B.S. : Dept. of Chemistry, Yonsei Univ. (2011-2018)
+
 Internship of Compute Chemisrty Lab. (2016)
+
 ROK Air Force (2013-2015)
 
 ## Spec
 
 Java / C / Fortran
+
 Organic Chemistry
+
 Inorganic Chemistry
+
 Analytic Chemistry
+
 Physical Chemisrty
+
 Electric Chemistry and Materials
+
 
 
 ### Markdown

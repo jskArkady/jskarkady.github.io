@@ -1,50 +1,25 @@
-## Welcome!
-
-## Bio
+### Bio
 Jin Seol Kim
 
-B.S. : Dept. of Chemistry, Yonsei Univ. (2011-2018)
+B.S.: Dept. of Chemistry, Yonsei Univ. (2011.3-2018.2)
 
-Internship of Compute Chemisrty Lab. (2016)
+ROK Air Force (2013.2-2015.2)
 
-ROK Air Force (2013-2015)
+Internship of Compute Chemisrty Lab. (2016.6-2016.8)
 
-## Spec
+TBD, SK Hynix (2019.1-)
 
-Java / C / Fortran
+### Spec
+- Java
+- C
+- Fortran
 
-Organic Chemistry
+-Organic Chemistry
 
-Inorganic Chemistry
+-Inorganic Chemistry
 
-Analytic Chemistry
+-Analytic Chemistry
 
-Physical Chemisrty
+-Physical Chemisrty
 
-Electric Chemistry and Materials
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Electric Chemistry and Materials

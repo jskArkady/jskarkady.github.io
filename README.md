@@ -14,12 +14,12 @@ TBD, SK Hynix (2019.1-)
 - C
 - Fortran
 
--Organic Chemistry
+- Organic Chemistry
 
--Inorganic Chemistry
+- Inorganic Chemistry
 
--Analytic Chemistry
+- Analytic Chemistry
 
--Physical Chemisrty
+- Physical Chemisrty
 
--Electric Chemistry and Materials
+- Electric Chemistry and Materials

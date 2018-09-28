@@ -21,3 +21,5 @@ Internship of Compute Chemisrty Lab. (2016.6-2016.8)
 ### Contacts
 
 Email : domingo10@naver.com
+
+LinkedIn : www.linkedin.com/in/jskArkady

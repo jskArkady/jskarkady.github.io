@@ -12,3 +12,8 @@ Internship of Compute Chemisrty Lab. (2016.6-2016.8)
 ### Skill
 
 - Java / C / Fortran
+
+
+### Contacts
+
+Email : domingo10@naver.com

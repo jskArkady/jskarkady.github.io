@@ -1,5 +1,6 @@
 ### Bio
 
+
 Jin Seol Kim
 
 B.S. : Dept. of Chemistry, Yonsei Univ. (2011.3-2018.2)
@@ -10,6 +11,7 @@ Internship of Compute Chemisrty Lab. (2016.6-2016.8)
 
 
 ### Skill
+
 
 - Java / C / Fortran
 

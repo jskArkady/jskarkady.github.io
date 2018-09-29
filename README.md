@@ -12,9 +12,9 @@ Internship of Compute Chemisrty Lab. (2016.6-2016.8)
 
 # Skill
 
-- Java 
-- C
-- Fortran
+Java  
+C  
+Fortran  
 
 
 # Contacts

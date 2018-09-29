@@ -16,4 +16,4 @@ Java / C / Fortran
 
 Email : domingo10@naver.com
 
-[LinkedIn](www.linkedin.com/in/jskArkady)
+[LinkedIn](https://www.linkedin.com/in/jskArkady)

@@ -14,6 +14,6 @@ Java / C / Fortran
 
 # Contacts
 
-Email : domingo10@naver.com
+Email : [jskarkady@gmail.com](mailto:jskarkady@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/jskArkady)

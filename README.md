@@ -2,11 +2,13 @@
 
 Jin Seol Kim
 
-B.S. : Dept. of Chemistry, Yonsei Univ. (2011.3-2018.2)
+B.S. : Dept. of Chemistry, Yonsei Univ. (2011-2018)
 
-ROK Air Force (2013.2-2015.2)
+ROK Air Force (2013-2015)
 
-Internship of Compute Chemisrty Lab. (2016.6-2016.8)
+Compute Chemisrty Lab., Yonsei Univ. (Internship)(2016.6-2016.8)
+
+SK Hynix (2019-present)
 
 # Skill 
 

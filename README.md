@@ -8,7 +8,7 @@ ROK Air Force (2013-2015)
 
 Compute Chemisrty Lab., Yonsei Univ. (Internship)(2016.6-2016.8)
 
-SK Hynix (2019-present)
+SK Hynix (2019-2020)
 
 # Skill 
 

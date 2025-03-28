@@ -12,7 +12,9 @@ SK Hynix (2019-2020)
 
 # Skill 
 
-Java / C / Fortran
+Python / Java / C / Fortran
+
+FT-IR / Raman / SEM
 
 # Contacts
 
